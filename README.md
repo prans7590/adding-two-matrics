@@ -1,4 +1,4 @@
-# adding-two-matrics
+# adding-two-matrices
 #include <stdio.h>
 
 int main(int argc, char const *argv[])
